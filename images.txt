@@ -1,1 +1,3 @@
 docker:latest
+bitcli/bit-server:latest-node-20.11.1
+bitcli/bit:latest-node-20.11.1
