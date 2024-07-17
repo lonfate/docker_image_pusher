@@ -5,3 +5,4 @@ drone/drone:2.24
 drone/drone-runner-docker:latest
 drone/git:latest
 node:lts-slim
+drillster/drone-volume-cache:latest
