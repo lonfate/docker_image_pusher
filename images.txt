@@ -6,3 +6,4 @@ drone/drone-runner-docker:latest
 drone/git:latest
 node:lts-slim
 drillster/drone-volume-cache:latest
+alpine/git:2.45.2
