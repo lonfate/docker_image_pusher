@@ -8,3 +8,4 @@ node:lts-slim
 drillster/drone-volume-cache:latest
 alpine/git:2.45.2
 alpine
+plugins/docker
